@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "moralisapicalls-42d0c"
+  },
+  "targets": {},
+  "etags": {
+    "moralisapicalls-42d0c": {
+      "extensionInstances": {
+        "moralis-auth": "81578b0d4b892ff93bf0c20720bda95c0a33fc4b2a57e8b370663bc9c4e6f3ce"
+      }
+    }
+  }
+}
